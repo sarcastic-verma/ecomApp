@@ -1,1 +1,2 @@
-Practice ecom proj
+Practice ecom proj 
+Made in react and firebase
