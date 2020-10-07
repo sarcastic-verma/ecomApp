@@ -1,2 +1,3 @@
-Practice ecom proj ~Not complete~
+Practice ecom proj 
 Made in react and firebase
+~Complete~
